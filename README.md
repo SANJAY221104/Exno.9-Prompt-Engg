@@ -38,7 +38,10 @@ Save different versions of the videos and compare the results to understand how 
 Video Generation: 
 prompt 1:A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.
 
-https://github.com/user-attachments/assets/5cfa5dc7-2e68-4123-a1ac-a5d21aa3baed
+
+
+https://github.com/user-attachments/assets/f99ab557-b36d-4614-81b8-aed2dfd82473
+
 
 
 prompt 2:A high-octane, realistic car chase scene through a bustling urban city at night, featuring two sleek sports cars—one red, one black—racing at high speed. Skyscrapers with neon lights reflect off wet streets from recent rain. Tire smoke, sparks from collisions, and motion blur add intensity. Police cars with flashing blue and red lights are in pursuit. Broken glass, scattered debris, and dramatic lighting enhance the chaotic atmosphere. Rain droplets on camera lens, cinematic camera angle from a low perspective behind the chasing car. High-detail textures, realistic lighting and shadows, dynamic motion, photorealistic, ultra-detailed, 8K resolution, cinematic style.
